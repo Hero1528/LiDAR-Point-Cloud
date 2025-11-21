@@ -1,5 +1,3 @@
-Final Report Summary 
-
 While working on this LiDAR assignment, I learned how to load .laz point cloud data using Python. At first, I didn’t even know what LiDAR is or how point clouds work, but slowly I understood that these are just millions of tiny points in 3D space that show trees, ground and height differences. I also learned how to show them in 2D (top view) and 3D with colors based on height so we can understand the forest area better.
 
 I did segmentation using ground vs non-ground and also small vs tall vegetation. I decided the height limit myself by checking the values in Z (elevation). It helped me understand that ground is lower and trees are higher. Visualization helped me see the forest structure more clearly.
