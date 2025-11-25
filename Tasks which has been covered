@@ -1,0 +1,42 @@
+Dataset:
+
+Use your own data set preferably of forest or trees
+
+Assignment Requirements (Tasks)
+1. Notebook Structure & Metadata Documentation
+Create a Jupyter Notebook titled LIDAR_Visualization_Assignment.ipynb
+Import and document the dataset metadata clearly, including essential properties.
+Provide a summary describing what the dataset represents.
+
+2. 2D Visualization
+Generate a complete 2D visualization section containing:
+A top-down projection
+Color-based representation using an attribute of your choice
+Interpretation of patterns observed
+
+
+3. 3D Visualization
+Produce a full 3D visualization of the LiDAR point cloud:
+Must include color mapping based on at least one feature
+Must include user-navigable perspective or verification screenshots
+Include written observations comparing 2D vs 3D perspectives
+
+4. Point Classification Segmentation
+Create a segmentation section showing:
+Ground vs non-ground separation
+At least one additional meaningful segmentation category
+A short written explanation of your segmentation criteria
+
+5. Elevation Modeling Outputs
+Develop visual outputs for:
+A Digital Elevation Model (DEM)
+A contour representation
+A short analysis of terrain patterns observed
+
+6. Final Report Summary
+At the end of the notebook, include a concise report covering:
+
+Key findings
+Challenges encountered
+Observed data quality issues
+What insights LiDAR visualization can provide in real-world applications
